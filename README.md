@@ -1,1 +1,2 @@
 # Tribute-Page---Chromatica
+This is my first webpage project from Free Code Camp where I first utilize html and css. I've learned how to add an external background design and how to use a font from the Google library.
